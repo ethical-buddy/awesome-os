@@ -18,6 +18,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket)- Linux-based OS meant for hosting containers.
 * [Brutal](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
+* [BumbellBee OS](https://github.com/ethical-buddy/BumbelBee) - BB is a 64-bit research operating system prototype designed with a tracing-first philosophy. Unlike general-purpose kernels, BB treats every interrupt, scheduler decision, and network packet as a recordable event.
 * [cavOS](https://github.com/malwarepad/cavOS) - Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase
 * [Charlotte](https://github.com/charlotte-os/charlotte-core) - CharlotteOS kernel in Rust
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
